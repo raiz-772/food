@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding-top: 0;
+  box-sizing: border-box;
+  /* font-family: "Roboto Condensed", sans-serif; */
+  font-family: "Comme", sans-serif;
+  display: inline;
+  background-color:rgb(123, 148, 123);
+  word-spacing: 2em;
+}
